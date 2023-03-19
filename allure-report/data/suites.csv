@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 15 14:47:52 SAMT 2023","Wed Mar 15 14:47:53 SAMT 2023","780","Surefire suite","Surefire test","tests.base.PlaceOrderTest","tests.base.PlaceOrderTest","loginByUnregisteredUserData","loginByUnregisteredUserData","Log in with incorrect authorization data, check Error message"
+"passed","Wed Mar 15 14:47:53 SAMT 2023","Wed Mar 15 14:47:53 SAMT 2023","465","Surefire suite","Surefire test","tests.base.PlaceOrderTest","tests.base.PlaceOrderTest","placeOrder","placeOrder","Place order and check success message"

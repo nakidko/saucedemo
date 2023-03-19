@@ -1,0 +1,9 @@
+org/example/Main.class
+pages/saucedemo/CatalogPage.class
+common/CommonAction.class
+pages/saucedemo/OverviewPage.class
+pages/saucedemo/CheckoutInfoPage.class
+pages/saucedemo/LoginPage.class
+pages/saucedemo/CartPage.class
+pages/base/BasePage.class
+pages/saucedemo/CheckoutCompletePage.class
